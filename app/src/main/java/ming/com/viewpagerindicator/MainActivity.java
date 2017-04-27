@@ -21,9 +21,9 @@ int mPos;
         btn.setOnClickListener(this);
         mView = (CircleIndicatorView) findViewById(R.id.ttt);
         mView.setOnClickListener(this);
-//        mView.setRadius(30);
-//        mView.setGap(20);
-//        mView.setCount(5);
+       mView.setRadius(30);
+       mView.setGap(20);
+       mView.setCount(5);
     }
 
     @Override

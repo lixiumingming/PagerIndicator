@@ -12,10 +12,10 @@
         android:id="@+id/ttt"
         android:layout_width="120dp"
         android:layout_height="50dp"
-        android:background="#ffff00">
+        android:background="#ffff00"/>
     <Button
         android:id="@+id/btn"
-        android:text="clik"
-        android:layout_width="60dp"
+        android:text="click to change"
+        android:layout_width="120dp"
         android:layout_height="60dp" />
 </LinearLayout>
